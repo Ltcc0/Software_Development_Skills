@@ -1,4 +1,4 @@
-### Agentic Software Development Skills (English Version)
+Agentic Software Development Skills (English Version)
 
 **name**	`agentic-swe-guidelines`
 **description**	Behavioral guidelines to scale LLMs from pure coding to closed-loop software engineering. Inspired by Andrej Karpathy's coding rules and advanced agentic PID control loops. Use this to enforce product-driven development, docs-as-state management, and systematic debugging.
